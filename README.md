@@ -12,21 +12,12 @@
 - 模型大小对比的消融研究
 
 
-## 安装
-
-1.  **克隆仓库：**
-    ```bash
-    git clone https://github.com/w18650/LLM-Mid.git
-    cd LLM-Mid-main
-    ```
-
-2.  **创建 Python 环境（推荐）：**
+ **创建 Python 环境（推荐）：**
     ```bash
     conda create -n transformer_env python=3.10
     conda activate transformer_env
     ```
-
-3.  **安装依赖：**
+  **安装依赖：**
     ```bash
     pip install -r requirements.txt
     ```
